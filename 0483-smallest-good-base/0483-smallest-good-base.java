@@ -17,5 +17,5 @@ class Solution {
             result = 1 + result * base;
         }
         return result;
-    }
+    
 }
