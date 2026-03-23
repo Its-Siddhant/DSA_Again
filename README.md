@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1646-get-maximum-in-generated-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
