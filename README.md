@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+| [3474-lexicographically-smallest-generated-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
