@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0022-generate-parentheses/) | Medium |
 | [0443-string-compression](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0443-string-compression/) | Medium |
 | [0640-solve-the-equation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0640-solve-the-equation/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0640-solve-the-equation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0640-solve-the-equation/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
