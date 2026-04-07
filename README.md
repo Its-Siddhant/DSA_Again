@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2069-walking-robot-simulation-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2751-robot-collisions](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2751-robot-collisions/) | Hard |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1622-fancy-sequence/) | Hard |
+| [2069-walking-robot-simulation-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
