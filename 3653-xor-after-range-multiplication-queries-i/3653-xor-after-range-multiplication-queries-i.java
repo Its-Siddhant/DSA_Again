@@ -1,5 +1,5 @@
 class Solution {
-    final int mod =
+    final int mod = 1000000007;
 
     public int xorAfterQueries(int[] nums, int[][] queries) {
 
