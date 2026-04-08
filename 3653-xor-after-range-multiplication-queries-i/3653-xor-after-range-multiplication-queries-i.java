@@ -4,7 +4,7 @@ class Solution {
     public int xorAfterQueries(int[] nums, int[][] queries) {
 
         // Process each query
-        for (int[] t : queries) {
+        for (int[] t : queries) 
             int l = t[0];
             int r = t[1];
             int k = t[2];
