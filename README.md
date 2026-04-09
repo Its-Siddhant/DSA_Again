@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0335-self-crossing](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0335-self-crossing/) | Hard |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -215,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -246,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0483-smallest-good-base](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0483-smallest-good-base/) | Hard |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -323,11 +328,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 <!---LeetCode Topics End-->
