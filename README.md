@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1089-duplicate-zeros](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1089-duplicate-zeros/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0220-contains-duplicate-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
@@ -286,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,8 +324,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 <!---LeetCode Topics End-->
