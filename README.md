@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0220-contains-duplicate-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0335-self-crossing](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0335-self-crossing/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1089-duplicate-zeros](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1089-duplicate-zeros/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0022-generate-parentheses/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -311,6 +313,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0372-super-pow](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0372-super-pow/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
