@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-get-maximum-in-generated-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1089-duplicate-zeros](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1089-duplicate-zeros/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0483-smallest-good-base](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0483-smallest-good-base/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
