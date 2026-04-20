@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2465-number-of-distinct-averages](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
