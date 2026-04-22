@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2465-number-of-distinct-averages](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -364,4 +366,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 <!---LeetCode Topics End-->
