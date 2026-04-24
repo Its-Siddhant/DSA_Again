@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1054-distant-barcodes](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1054-distant-barcodes/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
