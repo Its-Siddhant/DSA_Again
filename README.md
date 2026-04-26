@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -380,4 +384,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
