@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0022-generate-parentheses/) | Medium |
 | [0396-rotate-function](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0788-rotated-digits/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0483-smallest-good-base](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0483-smallest-good-base/) | Hard |
 | [0640-solve-the-equation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0640-solve-the-equation/) | Medium |
 | [0780-reaching-points](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0780-reaching-points/) | Hard |
+| [0788-rotated-digits](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0788-rotated-digits/) | Medium |
 | [1103-distribute-candies-to-people](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1622-fancy-sequence](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1622-fancy-sequence/) | Hard |
