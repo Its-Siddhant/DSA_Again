@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0184-department-highest-salary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0184-department-highest-salary/) | Medium |
 | [0262-trips-and-users](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0262-trips-and-users/) | Hard |
 | [0511-game-play-analysis-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0608-tree-node](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0608-tree-node/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
