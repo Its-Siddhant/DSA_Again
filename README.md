@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0048-rotate-image/) | Medium |
 | [0335-self-crossing](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0335-self-crossing/) | Hard |
+| [0371-sum-of-two-integers](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0372-super-pow](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0372-super-pow/) | Medium |
 | [0396-rotate-function](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0396-rotate-function/) | Medium |
 | [0483-smallest-good-base](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0483-smallest-good-base/) | Hard |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
