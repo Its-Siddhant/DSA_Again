@@ -384,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0393-utf-8-validation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0393-utf-8-validation/) | Medium |
+| [0476-number-complement](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0476-number-complement/) | Easy |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
