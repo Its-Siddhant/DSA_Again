@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3271-hash-divided-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3271-hash-divided-string/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2751-robot-collisions](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3271-hash-divided-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3271-hash-divided-string/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
