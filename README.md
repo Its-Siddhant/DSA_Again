@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0335-self-crossing](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0335-self-crossing/) | Hard |
 | [0393-utf-8-validation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0393-utf-8-validation/) | Medium |
 | [0396-rotate-function](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0396-rotate-function/) | Medium |
+| [0403-frog-jump](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0403-frog-jump/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0022-generate-parentheses/) | Medium |
 | [0396-rotate-function](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0396-rotate-function/) | Medium |
 | [0397-integer-replacement](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0397-integer-replacement/) | Medium |
+| [0403-frog-jump](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0403-frog-jump/) | Hard |
 | [0788-rotated-digits](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0788-rotated-digits/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
