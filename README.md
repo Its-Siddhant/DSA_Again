@@ -1,5 +1,5 @@
 # DSA_Again
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+I have started Solving DSA Questions Again ! :)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
