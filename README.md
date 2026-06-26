@@ -102,6 +102,7 @@ I have started Solving DSA Questions Again ! :)
 | [3689-maximum-total-subarray-value-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -327,6 +328,7 @@ I have started Solving DSA Questions Again ! :)
 | [3548-equal-sum-grid-partition-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -420,6 +422,7 @@ I have started Solving DSA Questions Again ! :)
 | [3548-equal-sum-grid-partition-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -502,6 +505,7 @@ I have started Solving DSA Questions Again ! :)
 | [3161-block-placement-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -571,6 +575,7 @@ I have started Solving DSA Questions Again ! :)
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -644,4 +649,5 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 <!---LeetCode Topics End-->
