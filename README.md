@@ -86,6 +86,7 @@ I have started Solving DSA Questions Again ! :)
 | [3161-block-placement-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3161-block-placement-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -157,6 +158,7 @@ I have started Solving DSA Questions Again ! :)
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -397,6 +399,7 @@ I have started Solving DSA Questions Again ! :)
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
 ## Heap (Priority Queue)
@@ -407,12 +410,14 @@ I have started Solving DSA Questions Again ! :)
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -619,6 +624,7 @@ I have started Solving DSA Questions Again ! :)
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
