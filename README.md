@@ -95,6 +95,7 @@ I have started Solving DSA Questions Again ! :)
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -135,6 +136,7 @@ I have started Solving DSA Questions Again ! :)
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -263,6 +265,7 @@ I have started Solving DSA Questions Again ! :)
 | [2465-number-of-distinct-averages](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [2540-minimum-common-value](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2540-minimum-common-value/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -297,6 +300,7 @@ I have started Solving DSA Questions Again ! :)
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3660-jump-game-ix/) | Medium |
@@ -413,6 +417,7 @@ I have started Solving DSA Questions Again ! :)
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -495,6 +500,7 @@ I have started Solving DSA Questions Again ! :)
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -514,6 +520,7 @@ I have started Solving DSA Questions Again ! :)
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -570,6 +577,7 @@ I have started Solving DSA Questions Again ! :)
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
