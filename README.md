@@ -196,6 +196,7 @@ I have started Solving DSA Questions Again ! :)
 | [0640-solve-the-equation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0640-solve-the-equation/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0784-letter-case-permutation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0784-letter-case-permutation/) | Medium |
 | [0796-rotate-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0796-rotate-string/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -435,6 +436,7 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0022-generate-parentheses/) | Medium |
+| [0784-letter-case-permutation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0784-letter-case-permutation/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -528,6 +530,7 @@ I have started Solving DSA Questions Again ! :)
 | [0393-utf-8-validation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0393-utf-8-validation/) | Medium |
 | [0397-integer-replacement](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0397-integer-replacement/) | Medium |
 | [0476-number-complement](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0476-number-complement/) | Easy |
+| [0784-letter-case-permutation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0784-letter-case-permutation/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
