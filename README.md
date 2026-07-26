@@ -18,6 +18,7 @@ I have started Solving DSA Questions Again ! :)
 | [0396-rotate-function](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0403-frog-jump/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -401,6 +402,7 @@ I have started Solving DSA Questions Again ! :)
 | [0519-random-flip-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0519-random-flip-matrix/) | Medium |
 | [0537-complex-number-multiplication](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0564-find-the-closest-palindrome](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0564-find-the-closest-palindrome/) | Hard |
+| [0628-maximum-product-of-three-numbers](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0640-solve-the-equation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0640-solve-the-equation/) | Medium |
 | [0780-reaching-points](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0780-reaching-points/) | Hard |
 | [0788-rotated-digits](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0788-rotated-digits/) | Medium |
@@ -604,6 +606,7 @@ I have started Solving DSA Questions Again ! :)
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1054-distant-barcodes](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1054-distant-barcodes/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1331-rank-transform-of-an-array/) | Easy |
