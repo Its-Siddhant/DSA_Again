@@ -232,6 +232,7 @@ I have started Solving DSA Questions Again ! :)
 | [3499-maximize-active-section-with-trade-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -375,6 +376,7 @@ I have started Solving DSA Questions Again ! :)
 | [3120-count-the-number-of-special-characters-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -389,6 +391,7 @@ I have started Solving DSA Questions Again ! :)
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -427,6 +430,7 @@ I have started Solving DSA Questions Again ! :)
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -653,6 +657,7 @@ I have started Solving DSA Questions Again ! :)
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
