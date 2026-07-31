@@ -220,6 +220,7 @@ I have started Solving DSA Questions Again ! :)
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2370-longest-ideal-subsequence](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -321,6 +322,7 @@ I have started Solving DSA Questions Again ! :)
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2370-longest-ideal-subsequence](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -370,6 +372,7 @@ I have started Solving DSA Questions Again ! :)
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2370-longest-ideal-subsequence](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2615-sum-of-distances/) | Medium |
