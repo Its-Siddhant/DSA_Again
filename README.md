@@ -24,6 +24,7 @@ I have started Solving DSA Questions Again ! :)
 | [0628-maximum-product-of-three-numbers](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0877-stone-game](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
@@ -319,6 +320,7 @@ I have started Solving DSA Questions Again ! :)
 | [0486-predict-the-winner](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0486-predict-the-winner/) | Medium |
 | [0546-remove-boxes](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0546-remove-boxes/) | Hard |
 | [0788-rotated-digits](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
@@ -427,6 +429,7 @@ I have started Solving DSA Questions Again ! :)
 | [0640-solve-the-equation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0640-solve-the-equation/) | Medium |
 | [0780-reaching-points](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0780-reaching-points/) | Hard |
 | [0788-rotated-digits](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0877-stone-game/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1103-distribute-candies-to-people](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -813,4 +816,5 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
