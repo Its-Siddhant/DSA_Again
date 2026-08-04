@@ -17,4 +17,4 @@ public class Solution {
         rightView(curr.left, result, currDepth + 1);
         
     }
-}
+    }
