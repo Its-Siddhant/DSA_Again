@@ -542,6 +542,7 @@ I have started Solving DSA Questions Again ! :)
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0437-path-sum-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0437-path-sum-iii/) | Medium |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -550,6 +551,7 @@ I have started Solving DSA Questions Again ! :)
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0437-path-sum-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0437-path-sum-iii/) | Medium |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [1306-jump-game-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1306-jump-game-iii/) | Medium |
@@ -750,6 +752,7 @@ I have started Solving DSA Questions Again ! :)
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1306-jump-game-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -788,6 +791,7 @@ I have started Solving DSA Questions Again ! :)
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0437-path-sum-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0437-path-sum-iii/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Memoization
