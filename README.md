@@ -156,6 +156,7 @@ I have started Solving DSA Questions Again ! :)
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -239,6 +240,7 @@ I have started Solving DSA Questions Again ! :)
 | [3093-longest-common-suffix-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3271-hash-divided-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3271-hash-divided-string/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -453,6 +455,7 @@ I have started Solving DSA Questions Again ! :)
 | [3312-sorted-gcd-pair-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -477,6 +480,7 @@ I have started Solving DSA Questions Again ! :)
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -700,6 +704,7 @@ I have started Solving DSA Questions Again ! :)
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Enumeration
