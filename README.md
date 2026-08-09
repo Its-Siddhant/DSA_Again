@@ -11,6 +11,7 @@ I have started Solving DSA Questions Again ! :)
 | [0048-rotate-image](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0217-contains-duplicate](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0217-contains-duplicate/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0330-patching-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0330-patching-array/) | Hard |
 | [0335-self-crossing](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0335-self-crossing/) | Hard |
@@ -377,6 +378,7 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0217-contains-duplicate/) | Easy |
 | [0336-palindrome-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0336-palindrome-pairs/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0519-random-flip-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0519-random-flip-matrix/) | Medium |
@@ -657,6 +659,7 @@ I have started Solving DSA Questions Again ! :)
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0217-contains-duplicate/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
