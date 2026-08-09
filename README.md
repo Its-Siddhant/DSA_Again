@@ -30,6 +30,7 @@ I have started Solving DSA Questions Again ! :)
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1054-distant-barcodes](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1054-distant-barcodes/) | Medium |
 | [1089-duplicate-zeros](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1089-duplicate-zeros/) | Easy |
+| [1140-stone-game-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1140-stone-game-ii/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -331,6 +332,7 @@ I have started Solving DSA Questions Again ! :)
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1140-stone-game-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1406-stone-game-iii/) | Hard |
@@ -442,6 +444,7 @@ I have started Solving DSA Questions Again ! :)
 | [0877-stone-game](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0877-stone-game/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1103-distribute-candies-to-people](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1103-distribute-candies-to-people/) | Easy |
+| [1140-stone-game-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1140-stone-game-ii/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1406-stone-game-iii/) | Hard |
@@ -521,6 +524,7 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [1140-stone-game-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1871-jump-game-vii/) | Medium |
@@ -841,13 +845,16 @@ I have started Solving DSA Questions Again ! :)
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1406-stone-game-iii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
