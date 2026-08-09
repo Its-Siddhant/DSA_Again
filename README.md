@@ -6,6 +6,7 @@ I have started Solving DSA Questions Again ! :)
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -375,6 +376,7 @@ I have started Solving DSA Questions Again ! :)
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0001-two-sum/) | Easy |
 | [0336-palindrome-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0336-palindrome-pairs/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0519-random-flip-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0519-random-flip-matrix/) | Medium |
