@@ -93,6 +93,7 @@ I have started Solving DSA Questions Again ! :)
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -376,6 +377,7 @@ I have started Solving DSA Questions Again ! :)
 | [1871-jump-game-vii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1871-jump-game-vii/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +406,7 @@ I have started Solving DSA Questions Again ! :)
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
