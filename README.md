@@ -76,6 +76,7 @@ I have started Solving DSA Questions Again ! :)
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2465-number-of-distinct-averages](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -232,6 +233,7 @@ I have started Solving DSA Questions Again ! :)
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2370-longest-ideal-subsequence](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -658,6 +660,7 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1622-fancy-sequence/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3161-block-placement-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -712,6 +715,7 @@ I have started Solving DSA Questions Again ! :)
 | [0220-contains-duplicate-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0456-132-pattern](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0456-132-pattern/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
