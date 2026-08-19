@@ -41,6 +41,7 @@ I have started Solving DSA Questions Again ! :)
 | [1331-rank-transform-of-an-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1406-stone-game-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1406-stone-game-iii/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -149,6 +150,7 @@ I have started Solving DSA Questions Again ! :)
 | [0680-valid-palindrome-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1054-distant-barcodes](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1054-distant-barcodes/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -400,6 +402,7 @@ I have started Solving DSA Questions Again ! :)
 | [1331-rank-transform-of-an-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -607,6 +610,7 @@ I have started Solving DSA Questions Again ! :)
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
