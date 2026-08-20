@@ -100,6 +100,7 @@ I have started Solving DSA Questions Again ! :)
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -292,6 +293,7 @@ I have started Solving DSA Questions Again ! :)
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2751-robot-collisions](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3271-hash-divided-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3271-hash-divided-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
