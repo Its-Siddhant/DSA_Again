@@ -493,6 +493,7 @@ I have started Solving DSA Questions Again ! :)
 | [3536-maximum-product-of-two-digits](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
