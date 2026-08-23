@@ -13,6 +13,7 @@ I have started Solving DSA Questions Again ! :)
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0217-contains-duplicate/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0321-create-maximum-number](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0321-create-maximum-number/) | Hard |
 | [0330-patching-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0330-patching-array/) | Hard |
 | [0335-self-crossing](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0335-self-crossing/) | Hard |
 | [0336-palindrome-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0336-palindrome-pairs/) | Hard |
@@ -146,6 +147,7 @@ I have started Solving DSA Questions Again ! :)
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0321-create-maximum-number](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0321-create-maximum-number/) | Hard |
 | [0330-patching-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0330-patching-array/) | Hard |
 | [0397-integer-replacement](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0397-integer-replacement/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -304,6 +306,7 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0061-rotate-list/) | Medium |
+| [0321-create-maximum-number](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0321-create-maximum-number/) | Hard |
 | [0443-string-compression](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1089-duplicate-zeros](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1089-duplicate-zeros/) | Easy |
@@ -571,6 +574,7 @@ I have started Solving DSA Questions Again ! :)
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0321-create-maximum-number](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0321-create-maximum-number/) | Hard |
 | [0456-132-pattern](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0456-132-pattern/) | Medium |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -868,6 +872,7 @@ I have started Solving DSA Questions Again ! :)
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0321-create-maximum-number](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0321-create-maximum-number/) | Hard |
 | [0456-132-pattern](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0456-132-pattern/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Game Theory
