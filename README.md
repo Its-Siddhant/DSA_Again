@@ -151,6 +151,7 @@ I have started Solving DSA Questions Again ! :)
 | [3838-weighted-word-mapping](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -529,6 +530,7 @@ I have started Solving DSA Questions Again ! :)
 | [3783-mirror-distance-of-an-integer](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
