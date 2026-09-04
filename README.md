@@ -152,6 +152,7 @@ I have started Solving DSA Questions Again ! :)
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -597,6 +598,7 @@ I have started Solving DSA Questions Again ! :)
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
