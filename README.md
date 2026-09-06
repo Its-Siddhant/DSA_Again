@@ -351,6 +351,7 @@ I have started Solving DSA Questions Again ! :)
 | [0185-department-top-three-salaries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0262-trips-and-users](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0262-trips-and-users/) | Hard |
 | [0511-game-play-analysis-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0550-game-play-analysis-iv](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0608-tree-node](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0608-tree-node/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 ## Dynamic Programming
