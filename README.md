@@ -348,6 +348,7 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0184-department-highest-salary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0262-trips-and-users](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0262-trips-and-users/) | Hard |
 | [0511-game-play-analysis-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0608-tree-node](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0608-tree-node/) | Medium |
