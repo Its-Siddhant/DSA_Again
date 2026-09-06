@@ -226,6 +226,7 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0022-generate-parentheses/) | Medium |
+| [0115-distinct-subsequences](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0242-valid-anagram/) | Easy |
 | [0273-integer-to-english-words](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0273-integer-to-english-words/) | Hard |
 | [0336-palindrome-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0336-palindrome-pairs/) | Hard |
@@ -355,6 +356,7 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0022-generate-parentheses/) | Medium |
+| [0115-distinct-subsequences](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0115-distinct-subsequences/) | Hard |
 | [0396-rotate-function](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0396-rotate-function/) | Medium |
 | [0397-integer-replacement](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0397-integer-replacement/) | Medium |
 | [0403-frog-jump](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0403-frog-jump/) | Hard |
