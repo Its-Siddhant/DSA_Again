@@ -239,6 +239,7 @@ I have started Solving DSA Questions Again ! :)
 | [0680-valid-palindrome-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0784-letter-case-permutation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0784-letter-case-permutation/) | Medium |
 | [0796-rotate-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0796-rotate-string/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -367,6 +368,7 @@ I have started Solving DSA Questions Again ! :)
 | [0788-rotated-digits](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1140-stone-game-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1140-stone-game-ii/) | Medium |
