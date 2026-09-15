@@ -236,6 +236,7 @@ I have started Solving DSA Questions Again ! :)
 | [0336-palindrome-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0336-palindrome-pairs/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0443-string-compression](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0443-string-compression/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0537-complex-number-multiplication](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0564-find-the-closest-palindrome](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0640-solve-the-equation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0640-solve-the-equation/) | Medium |
@@ -429,6 +430,7 @@ I have started Solving DSA Questions Again ! :)
 | [0336-palindrome-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0336-palindrome-pairs/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0519-random-flip-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0519-random-flip-matrix/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
@@ -473,6 +475,7 @@ I have started Solving DSA Questions Again ! :)
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1054-distant-barcodes](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1054-distant-barcodes/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -573,6 +576,7 @@ I have started Solving DSA Questions Again ! :)
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1054-distant-barcodes](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1054-distant-barcodes/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -740,6 +744,7 @@ I have started Solving DSA Questions Again ! :)
 | [0217-contains-duplicate](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0217-contains-duplicate/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0242-valid-anagram](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1054-distant-barcodes](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1054-distant-barcodes/) | Medium |
@@ -778,6 +783,7 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0451-sort-characters-by-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
