@@ -24,6 +24,7 @@ I have started Solving DSA Questions Again ! :)
 | [0456-132-pattern](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0456-132-pattern/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0486-predict-the-winner/) | Medium |
+| [0525-contiguous-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0525-contiguous-array/) | Medium |
 | [0546-remove-boxes](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0546-remove-boxes/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0835-image-overlap](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0835-image-overlap/) | Medium |
@@ -432,6 +433,7 @@ I have started Solving DSA Questions Again ! :)
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0519-random-flip-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0519-random-flip-matrix/) | Medium |
+| [0525-contiguous-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0525-contiguous-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
@@ -597,6 +599,7 @@ I have started Solving DSA Questions Again ! :)
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0525-contiguous-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0525-contiguous-array/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1140-stone-game-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
