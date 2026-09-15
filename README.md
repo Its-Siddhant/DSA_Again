@@ -17,6 +17,7 @@ I have started Solving DSA Questions Again ! :)
 | [0330-patching-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0330-patching-array/) | Hard |
 | [0335-self-crossing](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0335-self-crossing/) | Hard |
 | [0336-palindrome-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0336-palindrome-pairs/) | Hard |
+| [0380-insert-delete-getrandom-o1](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0393-utf-8-validation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0393-utf-8-validation/) | Medium |
 | [0396-rotate-function](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0403-frog-jump/) | Hard |
@@ -426,6 +427,7 @@ I have started Solving DSA Questions Again ! :)
 | [0217-contains-duplicate](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0242-valid-anagram/) | Easy |
 | [0336-palindrome-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0336-palindrome-pairs/) | Hard |
+| [0380-insert-delete-getrandom-o1](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0519-random-flip-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0519-random-flip-matrix/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -489,6 +491,7 @@ I have started Solving DSA Questions Again ! :)
 | [0335-self-crossing](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0335-self-crossing/) | Hard |
 | [0371-sum-of-two-integers](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0372-super-pow](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0372-super-pow/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0396-rotate-function](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0396-rotate-function/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0483-smallest-good-base](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0483-smallest-good-base/) | Hard |
@@ -718,6 +721,7 @@ I have started Solving DSA Questions Again ! :)
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1622-fancy-sequence](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Segment Tree
@@ -888,6 +892,7 @@ I have started Solving DSA Questions Again ! :)
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0519-random-flip-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0519-random-flip-matrix/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
