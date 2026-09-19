@@ -523,6 +523,7 @@ I have started Solving DSA Questions Again ! :)
 | [1140-stone-game-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1140-stone-game-ii/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1510-stone-game-iv/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -849,6 +850,7 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0335-self-crossing](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0335-self-crossing/) | Hard |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
