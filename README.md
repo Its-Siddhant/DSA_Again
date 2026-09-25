@@ -253,6 +253,7 @@ I have started Solving DSA Questions Again ! :)
 | [0940-distinct-subsequences-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -450,6 +451,7 @@ I have started Solving DSA Questions Again ! :)
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1054-distant-barcodes](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1054-distant-barcodes/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1345-jump-game-iv/) | Hard |
@@ -578,6 +580,7 @@ I have started Solving DSA Questions Again ! :)
 | [0022-generate-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0022-generate-parentheses/) | Medium |
 | [0784-letter-case-permutation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0784-letter-case-permutation/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -652,6 +655,7 @@ I have started Solving DSA Questions Again ! :)
 | [0456-132-pattern](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0456-132-pattern/) | Medium |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2751-robot-collisions](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2751-robot-collisions/) | Hard |
@@ -776,6 +780,7 @@ I have started Solving DSA Questions Again ! :)
 | [0621-task-scheduler](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1054-distant-barcodes](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1054-distant-barcodes/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1340-jump-game-v/) | Hard |
@@ -895,6 +900,7 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
