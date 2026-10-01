@@ -237,6 +237,7 @@ I have started Solving DSA Questions Again ! :)
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0242-valid-anagram/) | Easy |
@@ -656,6 +657,7 @@ I have started Solving DSA Questions Again ! :)
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0020-valid-parentheses/) | Easy |
 | [0321-create-maximum-number](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0321-create-maximum-number/) | Hard |
 | [0456-132-pattern](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0456-132-pattern/) | Medium |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
@@ -1021,6 +1023,7 @@ I have started Solving DSA Questions Again ! :)
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
