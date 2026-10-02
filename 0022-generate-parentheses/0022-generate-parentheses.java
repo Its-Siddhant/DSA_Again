@@ -1,23 +1,23 @@
 class Solution {
+    List<String> res = new ArrayList<>();
+
     public List<String> generateParenthesis(int n) {
-        List<String> res = new ArrayList<String>();
-        recurse(res, 0, 0, "", n);
+        if (n-- == 1) return List.of("()");
+        dfs(n, n, "(");
+
         return res;
     }
-    
-    public void recurse(List<String> res, int left, int right, String s, int n) {
-        if (s.length() == n * 2) {
-            res.add(s);
+
+    private void dfs(int O, int C, String s) {
+        if (O == 0 && C == 0) {
+            res.add(s + ")");
             return;
         }
-        
-        if (left < n) {
-            recurse(res, left + 1, right, s + "(", n);
-        }
-        
-        if (right < left) {
-            recurse(res, left, right + 1, s + ")", n);
-        }
+
+        if (O > 0)
+            dfs(O - 1, C, s + "(");
+
+        if (C >= O)
+            dfs(O, C - 1, s + ")");
     }
-	// See above tree diagram with parameters (left, right, s) for better understanding
 }
