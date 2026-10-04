@@ -170,6 +170,7 @@ I have started Solving DSA Questions Again ! :)
 | [0330-patching-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0330-patching-array/) | Hard |
 | [0397-integer-replacement](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0397-integer-replacement/) | Medium |
 | [0621-task-scheduler](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0621-task-scheduler/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1054-distant-barcodes](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1054-distant-barcodes/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -251,6 +252,7 @@ I have started Solving DSA Questions Again ! :)
 | [0564-find-the-closest-palindrome](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0640-solve-the-equation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0640-solve-the-equation/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0784-letter-case-permutation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0784-letter-case-permutation/) | Medium |
 | [0796-rotate-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0796-rotate-string/) | Easy |
@@ -387,6 +389,7 @@ I have started Solving DSA Questions Again ! :)
 | [0403-frog-jump](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0403-frog-jump/) | Hard |
 | [0486-predict-the-winner](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0486-predict-the-winner/) | Medium |
 | [0546-remove-boxes](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0546-remove-boxes/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -664,6 +667,7 @@ I have started Solving DSA Questions Again ! :)
 | [0321-create-maximum-number](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0321-create-maximum-number/) | Hard |
 | [0456-132-pattern](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0456-132-pattern/) | Medium |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -1029,6 +1033,7 @@ I have started Solving DSA Questions Again ! :)
 | [0020-valid-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
