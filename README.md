@@ -8,6 +8,7 @@ I have started Solving DSA Questions Again ! :)
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -728,6 +729,7 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0456-132-pattern](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0456-132-pattern/) | Medium |
