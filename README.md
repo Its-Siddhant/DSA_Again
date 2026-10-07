@@ -246,6 +246,7 @@ I have started Solving DSA Questions Again ! :)
 | [0115-distinct-subsequences](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0242-valid-anagram/) | Easy |
 | [0273-integer-to-english-words](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0273-integer-to-english-words/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0336-palindrome-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0336-palindrome-pairs/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0443-string-compression](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0443-string-compression/) | Medium |
@@ -593,6 +594,7 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0784-letter-case-permutation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0784-letter-case-permutation/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -923,6 +925,7 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1345-jump-game-iv/) | Hard |
