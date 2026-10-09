@@ -268,6 +268,7 @@ I have started Solving DSA Questions Again ! :)
 | [1096-brace-expansion-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1348-tweet-counts-per-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1348-tweet-counts-per-frequency/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
@@ -473,6 +474,7 @@ I have started Solving DSA Questions Again ! :)
 | [1189-maximum-number-of-balloons](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1345-jump-game-iv/) | Hard |
+| [1348-tweet-counts-per-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1348-tweet-counts-per-frequency/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -743,6 +745,7 @@ I have started Solving DSA Questions Again ! :)
 | [0456-132-pattern](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0456-132-pattern/) | Medium |
 | [0483-smallest-good-base](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0483-smallest-good-base/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [1348-tweet-counts-per-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1348-tweet-counts-per-frequency/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -784,6 +787,7 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [1348-tweet-counts-per-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1348-tweet-counts-per-frequency/) | Medium |
 | [1622-fancy-sequence](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Segment Tree
@@ -812,6 +816,7 @@ I have started Solving DSA Questions Again ! :)
 | [1288-remove-covered-intervals](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1340-jump-game-v/) | Hard |
+| [1348-tweet-counts-per-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1348-tweet-counts-per-frequency/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -850,6 +855,7 @@ I have started Solving DSA Questions Again ! :)
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0456-132-pattern](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0456-132-pattern/) | Medium |
+| [1348-tweet-counts-per-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1348-tweet-counts-per-frequency/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Combinatorics
