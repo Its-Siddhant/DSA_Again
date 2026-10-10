@@ -90,6 +90,7 @@ I have started Solving DSA Questions Again ! :)
 | [2196-create-binary-tree-from-descriptions](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2465-number-of-distinct-averages](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -189,6 +190,7 @@ I have started Solving DSA Questions Again ! :)
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -627,6 +629,7 @@ I have started Solving DSA Questions Again ! :)
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -749,6 +752,7 @@ I have started Solving DSA Questions Again ! :)
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
@@ -827,6 +831,7 @@ I have started Solving DSA Questions Again ! :)
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2465-number-of-distinct-averages](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2751-robot-collisions](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2751-robot-collisions/) | Hard |
