@@ -106,6 +106,7 @@ I have started Solving DSA Questions Again ! :)
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -192,6 +193,7 @@ I have started Solving DSA Questions Again ! :)
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -492,6 +494,7 @@ I have started Solving DSA Questions Again ! :)
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -731,6 +734,7 @@ I have started Solving DSA Questions Again ! :)
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
