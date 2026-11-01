@@ -22,6 +22,7 @@ I have started Solving DSA Questions Again ! :)
 | [0393-utf-8-validation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0393-utf-8-validation/) | Medium |
 | [0396-rotate-function](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0403-frog-jump/) | Hard |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0456-132-pattern](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0456-132-pattern/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0486-predict-the-winner/) | Medium |
@@ -557,6 +558,7 @@ I have started Solving DSA Questions Again ! :)
 | [0372-super-pow](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0372-super-pow/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0396-rotate-function](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0396-rotate-function/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0483-smallest-good-base](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0483-smallest-good-base/) | Hard |
 | [0486-predict-the-winner](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0486-predict-the-winner/) | Medium |
