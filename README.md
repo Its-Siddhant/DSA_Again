@@ -134,6 +134,7 @@ I have started Solving DSA Questions Again ! :)
 | [3312-sorted-gcd-pair-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -485,6 +486,7 @@ I have started Solving DSA Questions Again ! :)
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -737,6 +739,7 @@ I have started Solving DSA Questions Again ! :)
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2751-robot-collisions](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2751-robot-collisions/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -857,6 +860,7 @@ I have started Solving DSA Questions Again ! :)
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3161-block-placement-queries/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -983,12 +987,14 @@ I have started Solving DSA Questions Again ! :)
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1083,6 +1089,7 @@ I have started Solving DSA Questions Again ! :)
 | [0321-create-maximum-number](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0321-create-maximum-number/) | Hard |
 | [0456-132-pattern](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0456-132-pattern/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
