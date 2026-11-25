@@ -181,6 +181,7 @@ I have started Solving DSA Questions Again ! :)
 | [3875-construct-uniform-parity-array-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3934-smallest-unique-subarray/) | Hard |
@@ -267,6 +268,7 @@ I have started Solving DSA Questions Again ! :)
 | [3665-twisted-mirror-path-count](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -671,6 +673,7 @@ I have started Solving DSA Questions Again ! :)
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3898-find-the-degree-of-each-vertex](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
