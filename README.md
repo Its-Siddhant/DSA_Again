@@ -183,6 +183,7 @@ I have started Solving DSA Questions Again ! :)
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -555,6 +556,7 @@ I have started Solving DSA Questions Again ! :)
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -833,6 +835,7 @@ I have started Solving DSA Questions Again ! :)
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1080,6 +1083,7 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0336-palindrome-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0336-palindrome-pairs/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1157,4 +1161,12 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
